@@ -46,3 +46,7 @@ node server.js
 }
 ```
 
+## 🚀 Desafio Extra
+### Modifique o código para adicionar um tipo User com nome e idade.
+### Crie uma query chamada user que retorne um usuário fixo.
+  Adicione um tipo User com os campos nome (String) e idade (Int). Depois, crie uma query chamada user que retorne um usuário fixo, como: { nome: 'João', idade: 25 }."
